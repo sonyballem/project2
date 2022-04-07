@@ -14,16 +14,7 @@ from app.db.models import User
 from app.db import db
 from app.auth import auth
 from app.cli import create_database
-from flask_login import (
-    UserMixin,
-    login_user,
-    LoginManager,
-    current_user,
-    logout_user,
-    login_required,
-)
 
-login_manager = LoginManager()
 
 login_manager = flask_login.LoginManager()
 
