@@ -13,7 +13,6 @@ from flask import current_app
 
 
 
-
 @auth.route('/login', methods=['POST', 'GET'])
 def login():
     form = login_form()
