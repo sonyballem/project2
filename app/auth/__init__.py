@@ -13,6 +13,7 @@ from flask import current_app
 
 
 
+
 @auth.route('/login', methods=['POST', 'GET'])
 def login():
     form = login_form()
@@ -168,3 +169,5 @@ def edit_account():
         flash('You Successfully Updated your Password or Email', 'success')
         return redirect(url_for('auth.dashboard'))
     return render_template('manage_account.html', form=form)
+
+
