@@ -18,6 +18,7 @@ class login_form(FlaskForm):
 class register_form(FlaskForm):
     email = EmailField('Email Address', [
         validators.DataRequired(),
+        validators.Email()
 
     ], description="You need to signup with an email")
 
@@ -36,6 +37,7 @@ class profile_form(FlaskForm):
                           description="Please add information about yourself")
 
     submit = SubmitField()
+
 
 class user_edit_form(FlaskForm):
     about = TextAreaField('About', [validators.length(min=6, max=300)],

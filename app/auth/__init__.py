@@ -12,8 +12,6 @@ auth = Blueprint('auth', __name__, template_folder='templates')
 from flask import current_app
 
 
-
-
 @auth.route('/login', methods=['POST', 'GET'])
 def login():
     form = login_form()
@@ -21,8 +19,11 @@ def login():
         return redirect(url_for('auth.dashboard'))
     if form.validate_on_submit():
         user = User.query.filter_by(email=form.email.data).first()
-        if user is None or not user.check_password(form.password.data):
-            flash('Invalid username or password')
+        if user is None:
+            flash('Invalid email')
+            return redirect(url_for('auth.login'))
+        elif not user.check_password(form.password.data):
+            flash('Invalid password')
             return redirect(url_for('auth.login'))
         else:
             user.authenticated = True
