@@ -1,10 +1,10 @@
 """A simple flask web app"""
 import os
 
+import flask_login
 import logging
 from logging.handlers import RotatingFileHandler
 import flask_login
-from flask import Flask
 from flask import Flask
 from flask import render_template
 from flask_bootstrap import Bootstrap5
@@ -36,6 +36,7 @@ def create_app():
         app.config.from_object("app.config.DevelopmentConfig")
     elif app.config["ENV"] == "testing":
         app.config.from_object("app.config.TestingConfig")
+
     login_manager.init_app(app)
     login_manager.login_view = "auth.login"
     csrf = CSRFProtect(app)
@@ -50,11 +51,6 @@ def create_app():
     app.cli.add_command(create_log_folder)
     db.init_app(app)
     # Run once at startup:
-
-    db.init_app(app)
-    # add command function to cli commands
-    app.cli.add_command(create_database)
-    # Setup Flask-User and specify the User data-model
 
     return app
 
