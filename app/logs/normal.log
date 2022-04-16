@@ -1,0 +1,241 @@
+2022-04-16 04:45:13,992 [INFO] app: Before Request
+2022-04-16 04:45:14,174 [INFO] app: After Request
+2022-04-16 04:45:14,197 [INFO] app: Before Request
+2022-04-16 04:45:14,363 [INFO] app: After Request
+2022-04-16 04:45:14,390 [INFO] app: Before Request
+2022-04-16 04:45:14,568 [INFO] app: After Request
+2022-04-16 04:45:14,591 [INFO] app: Before Request
+2022-04-16 04:45:14,752 [INFO] app: After Request
+2022-04-16 04:45:14,775 [INFO] app: Before Request
+2022-04-16 04:45:14,940 [INFO] app: After Request
+2022-04-16 04:45:14,963 [INFO] app: Before Request
+2022-04-16 04:45:15,127 [INFO] app: After Request
+2022-04-16 04:45:15,149 [INFO] app: Before Request
+2022-04-16 04:45:15,316 [INFO] app: After Request
+2022-04-16 04:45:15,338 [INFO] app: Before Request
+2022-04-16 04:45:15,506 [INFO] app: After Request
+2022-04-16 04:45:15,528 [INFO] app: Before Request
+2022-04-16 04:45:15,718 [INFO] app: After Request
+2022-04-16 04:45:15,740 [INFO] app: Before Request
+2022-04-16 04:45:15,911 [INFO] app: After Request
+2022-04-16 04:45:15,933 [INFO] app: Before Request
+2022-04-16 04:45:16,101 [INFO] app: After Request
+2022-04-16 04:45:16,136 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,137 [INFO] app: After Request
+2022-04-16 04:45:16,172 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,173 [INFO] app: After Request
+2022-04-16 04:45:16,208 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,208 [INFO] app: After Request
+2022-04-16 04:45:16,242 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,242 [INFO] app: After Request
+2022-04-16 04:45:16,280 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,280 [INFO] app: After Request
+2022-04-16 04:45:16,315 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,316 [INFO] app: After Request
+2022-04-16 04:45:16,351 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,352 [INFO] app: After Request
+2022-04-16 04:45:16,381 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,382 [INFO] app: After Request
+2022-04-16 04:45:16,414 [INFO] flask_wtf.csrf: The CSRF token is missing.
+2022-04-16 04:45:16,415 [INFO] app: After Request
+2022-04-16 04:45:16,450 [INFO] app: Before Request
+2022-04-16 04:45:16,451 [INFO] app: After Request
+2022-04-16 04:45:16,453 [INFO] app: Before Request
+2022-04-16 04:45:16,617 [INFO] app: After Request
+2022-04-16 04:45:37,148 [INFO] app: Before Request
+2022-04-16 04:45:37,319 [INFO] app: After Request
+2022-04-16 04:45:37,341 [INFO] app: Before Request
+2022-04-16 04:45:37,511 [INFO] app: After Request
+2022-04-16 04:45:37,533 [INFO] app: Before Request
+2022-04-16 04:45:37,701 [INFO] app: After Request
+2022-04-16 04:45:37,727 [INFO] app: Before Request
+2022-04-16 04:45:37,900 [INFO] app: After Request
+2022-04-16 04:45:37,921 [INFO] app: Before Request
+2022-04-16 04:45:38,091 [INFO] app: After Request
+2022-04-16 04:45:38,112 [INFO] app: Before Request
+2022-04-16 04:45:38,272 [INFO] app: After Request
+2022-04-16 04:45:38,295 [INFO] app: Before Request
+2022-04-16 04:45:38,454 [INFO] app: After Request
+2022-04-16 04:45:38,475 [INFO] app: Before Request
+2022-04-16 04:45:38,636 [INFO] app: After Request
+2022-04-16 04:45:38,659 [INFO] app: Before Request
+2022-04-16 04:45:38,827 [INFO] app: After Request
+2022-04-16 04:45:38,848 [INFO] app: Before Request
+2022-04-16 04:45:39,015 [INFO] app: After Request
+2022-04-16 04:45:39,038 [INFO] app: Before Request
+2022-04-16 04:45:39,211 [INFO] app: After Request
+2022-04-16 04:47:48,767 [INFO] app: Before Request
+2022-04-16 04:47:48,933 [INFO] app: After Request
+2022-04-16 04:47:48,953 [INFO] app: Before Request
+2022-04-16 04:47:49,113 [INFO] app: After Request
+2022-04-16 04:47:49,132 [INFO] app: Before Request
+2022-04-16 04:47:49,364 [INFO] app: After Request
+2022-04-16 04:47:49,385 [INFO] app: Before Request
+2022-04-16 04:47:49,541 [INFO] app: After Request
+2022-04-16 04:47:49,561 [INFO] app: Before Request
+2022-04-16 04:47:49,722 [INFO] app: After Request
+2022-04-16 04:47:49,743 [INFO] app: Before Request
+2022-04-16 04:47:49,900 [INFO] app: After Request
+2022-04-16 04:47:49,920 [INFO] app: Before Request
+2022-04-16 04:47:50,078 [INFO] app: After Request
+2022-04-16 04:47:50,097 [INFO] app: Before Request
+2022-04-16 04:47:50,258 [INFO] app: After Request
+2022-04-16 04:47:50,278 [INFO] app: Before Request
+2022-04-16 04:47:50,515 [INFO] app: After Request
+2022-04-16 04:47:50,536 [INFO] app: Before Request
+2022-04-16 04:47:50,722 [INFO] app: After Request
+2022-04-16 04:47:50,744 [INFO] app: Before Request
+2022-04-16 04:47:50,910 [INFO] app: After Request
+2022-04-16 04:48:04,627 [INFO] app: Before Request
+2022-04-16 04:48:04,795 [INFO] app: After Request
+2022-04-16 04:48:04,815 [INFO] app: Before Request
+2022-04-16 04:48:04,975 [INFO] app: After Request
+2022-04-16 04:48:04,996 [INFO] app: Before Request
+2022-04-16 04:48:05,158 [INFO] app: After Request
+2022-04-16 04:48:05,179 [INFO] app: Before Request
+2022-04-16 04:48:05,340 [INFO] app: After Request
+2022-04-16 04:48:05,361 [INFO] app: Before Request
+2022-04-16 04:48:05,519 [INFO] app: After Request
+2022-04-16 04:48:05,551 [INFO] app: Before Request
+2022-04-16 04:48:05,721 [INFO] app: After Request
+2022-04-16 04:48:05,745 [INFO] app: Before Request
+2022-04-16 04:48:05,916 [INFO] app: After Request
+2022-04-16 04:48:05,939 [INFO] app: Before Request
+2022-04-16 04:48:06,101 [INFO] app: After Request
+2022-04-16 04:48:06,123 [INFO] app: Before Request
+2022-04-16 04:48:06,288 [INFO] app: After Request
+2022-04-16 04:48:06,310 [INFO] app: Before Request
+2022-04-16 04:48:06,482 [INFO] app: After Request
+2022-04-16 04:48:06,505 [INFO] app: Before Request
+2022-04-16 04:48:06,674 [INFO] app: After Request
+2022-04-16 04:48:20,708 [INFO] app: Before Request
+2022-04-16 04:48:20,904 [INFO] app: After Request
+2022-04-16 04:48:20,906 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 04:48:20] "GET /register HTTP/1.1" 200 -
+2022-04-16 04:48:20,957 [INFO] app: Before Request
+2022-04-16 04:48:20,973 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 04:48:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 04:55:05,661 [INFO] app: Before Request
+2022-04-16 04:55:05,686 [INFO] app: After Request
+2022-04-16 04:55:05,687 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 04:55:05] "GET /register HTTP/1.1" 200 -
+2022-04-16 04:55:05,833 [INFO] app: Before Request
+2022-04-16 04:55:05,840 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 04:55:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 04:55:26,013 [INFO] app: Before Request
+2022-04-16 04:55:26,025 [INFO] app: After Request
+2022-04-16 04:55:26,027 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 04:55:26] "GET /register HTTP/1.1" 200 -
+2022-04-16 04:55:26,186 [INFO] app: Before Request
+2022-04-16 04:55:26,194 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 04:55:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 04:58:29,482 [INFO] app: Before Request
+2022-04-16 04:58:29,670 [INFO] app: After Request
+2022-04-16 04:58:29,690 [INFO] app: Before Request
+2022-04-16 04:58:29,882 [INFO] app: After Request
+2022-04-16 04:58:29,903 [INFO] app: Before Request
+2022-04-16 04:58:30,078 [INFO] app: After Request
+2022-04-16 04:58:30,098 [INFO] app: Before Request
+2022-04-16 04:58:30,279 [INFO] app: After Request
+2022-04-16 04:58:30,300 [INFO] app: Before Request
+2022-04-16 04:58:30,479 [INFO] app: After Request
+2022-04-16 04:58:30,498 [INFO] app: Before Request
+2022-04-16 04:58:30,655 [INFO] app: After Request
+2022-04-16 04:58:30,674 [INFO] app: Before Request
+2022-04-16 04:58:30,833 [INFO] app: After Request
+2022-04-16 04:58:30,851 [INFO] app: Before Request
+2022-04-16 04:58:31,015 [INFO] app: After Request
+2022-04-16 04:58:31,034 [INFO] app: Before Request
+2022-04-16 04:58:31,198 [INFO] app: After Request
+2022-04-16 04:58:31,220 [INFO] app: Before Request
+2022-04-16 04:58:31,395 [INFO] app: After Request
+2022-04-16 04:58:31,414 [INFO] app: Before Request
+2022-04-16 04:58:31,582 [INFO] app: After Request
+2022-04-16 04:58:52,591 [INFO] app: Before Request
+2022-04-16 04:58:52,767 [INFO] app: After Request
+2022-04-16 04:58:52,786 [INFO] app: Before Request
+2022-04-16 04:58:52,954 [INFO] app: After Request
+2022-04-16 04:58:52,973 [INFO] app: Before Request
+2022-04-16 04:58:53,137 [INFO] app: After Request
+2022-04-16 04:58:53,160 [INFO] app: Before Request
+2022-04-16 04:58:53,329 [INFO] app: After Request
+2022-04-16 04:58:53,347 [INFO] app: Before Request
+2022-04-16 04:58:53,513 [INFO] app: After Request
+2022-04-16 04:58:53,532 [INFO] app: Before Request
+2022-04-16 04:58:53,693 [INFO] app: After Request
+2022-04-16 04:58:53,720 [INFO] app: Before Request
+2022-04-16 04:58:53,886 [INFO] app: After Request
+2022-04-16 04:58:53,907 [INFO] app: Before Request
+2022-04-16 04:58:54,072 [INFO] app: After Request
+2022-04-16 04:58:54,093 [INFO] app: Before Request
+2022-04-16 04:58:54,264 [INFO] app: After Request
+2022-04-16 04:58:54,283 [INFO] app: Before Request
+2022-04-16 04:58:54,450 [INFO] app: After Request
+2022-04-16 04:58:54,470 [INFO] app: Before Request
+2022-04-16 04:58:54,631 [INFO] app: After Request
+2022-04-16 05:13:06,595 [INFO] werkzeug:  * Detected change in '/home/myuser/tests/context_process_test.py', reloading
+2022-04-16 05:13:46,313 [INFO] app: Before Request
+2022-04-16 05:13:46,514 [INFO] app: After Request
+2022-04-16 05:13:46,547 [INFO] app: Before Request
+2022-04-16 05:13:46,740 [INFO] app: After Request
+2022-04-16 05:13:46,762 [INFO] app: Before Request
+2022-04-16 05:13:46,929 [INFO] app: After Request
+2022-04-16 05:13:46,949 [INFO] app: Before Request
+2022-04-16 05:13:47,114 [INFO] app: After Request
+2022-04-16 05:13:47,135 [INFO] app: Before Request
+2022-04-16 05:13:47,296 [INFO] app: After Request
+2022-04-16 05:13:47,318 [INFO] app: Before Request
+2022-04-16 05:13:47,482 [INFO] app: After Request
+2022-04-16 05:13:47,502 [INFO] app: Before Request
+2022-04-16 05:13:47,700 [INFO] app: After Request
+2022-04-16 05:13:47,728 [INFO] app: Before Request
+2022-04-16 05:13:47,898 [INFO] app: After Request
+2022-04-16 05:16:13,864 [INFO] app: Before Request
+2022-04-16 05:16:14,063 [INFO] app: After Request
+2022-04-16 05:16:14,065 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:14] "GET / HTTP/1.1" 200 -
+2022-04-16 05:16:15,009 [INFO] app: Before Request
+2022-04-16 05:16:15,025 [INFO] app: After Request
+2022-04-16 05:16:15,026 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:15] "GET /about HTTP/1.1" 200 -
+2022-04-16 05:16:16,211 [INFO] app: Before Request
+2022-04-16 05:16:16,227 [INFO] app: After Request
+2022-04-16 05:16:16,228 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:16] "GET /welcome HTTP/1.1" 200 -
+2022-04-16 05:16:18,143 [INFO] app: Before Request
+2022-04-16 05:16:18,164 [INFO] app: After Request
+2022-04-16 05:16:18,165 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:18] "GET /login HTTP/1.1" 200 -
+2022-04-16 05:16:19,472 [INFO] app: Before Request
+2022-04-16 05:16:19,504 [INFO] app: After Request
+2022-04-16 05:16:19,506 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:19] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:16:34,859 [INFO] app: Before Request
+2022-04-16 05:16:34,870 [INFO] app: After Request
+2022-04-16 05:16:34,871 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:34] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:16:35,030 [INFO] app: Before Request
+2022-04-16 05:16:35,044 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:16:56,110 [INFO] app: Before Request
+2022-04-16 05:16:56,120 [INFO] app: After Request
+2022-04-16 05:16:56,121 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:56] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:16:56,263 [INFO] app: Before Request
+2022-04-16 05:16:56,271 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:16:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:18:22,183 [INFO] app: Before Request
+2022-04-16 05:18:22,210 [INFO] app: After Request
+2022-04-16 05:18:22,213 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:18:22] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:18:22,365 [INFO] app: Before Request
+2022-04-16 05:18:22,372 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:18:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:18:23,041 [INFO] app: Before Request
+2022-04-16 05:18:23,051 [INFO] app: After Request
+2022-04-16 05:18:23,052 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:18:23] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:18:23,182 [INFO] app: Before Request
+2022-04-16 05:18:23,188 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:18:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:18:42,970 [INFO] app: Before Request
+2022-04-16 05:18:42,978 [INFO] app: After Request
+2022-04-16 05:18:42,979 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:18:42] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:18:43,169 [INFO] app: Before Request
+2022-04-16 05:18:43,177 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:18:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:19:02,906 [INFO] app: Before Request
+2022-04-16 05:19:02,913 [INFO] app: After Request
+2022-04-16 05:19:02,914 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:19:02] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:19:03,052 [INFO] app: Before Request
+2022-04-16 05:19:03,057 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:19:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:30:59,735 [INFO] app: Before Request
+2022-04-16 05:30:59,761 [INFO] app: After Request
+2022-04-16 05:30:59,762 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:30:59] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:30:59,905 [INFO] app: Before Request
+2022-04-16 05:30:59,912 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:30:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:31:00,751 [INFO] app: Before Request
+2022-04-16 05:31:00,757 [INFO] app: After Request
+2022-04-16 05:31:00,759 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:31:00] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:31:00,907 [INFO] app: Before Request
+2022-04-16 05:31:00,913 [INFO] werkzeug: 172.24.0.1 - - [16/Apr/2022 05:31:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
