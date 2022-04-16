@@ -8,7 +8,7 @@
         </div>
         <div id="message" class="col-5">
             <div id="letter" class="red">
-                Has lower case letter
+                Has lower case letter, upper case letter, numeric value and a special characters
                 <div class="progress">
                     <div id="p-bar" class="progress-bar" style="width: 0%" role="progressbar" aria-valuenow="0"
                          aria-valuemin="0" aria-valuemax="100"></div>
@@ -81,50 +81,50 @@
         lowerCase.onChange(function (v) {
 
             if(v === 0) {
-                setProgressBarWidth(id,-25)
+                setProgressBarWidth(id,-20)
             } else {
-                setProgressBarWidth(id,+25)
+                setProgressBarWidth(id,+20)
             }
         });
 
         passwordLength.onChange(function (v) {
 
             if(v === 0) {
-                setProgressBarWidth(id,-25)
+                setProgressBarWidth(id,-20)
             } else {
-                setProgressBarWidth(id,+25)
+                setProgressBarWidth(id,+20)
             }
         });
 
         upperCase.onChange(function (v) {
 
             if(v === 0) {
-                setProgressBarWidth(id,-25)
+                setProgressBarWidth(id,-20)
             } else {
-                setProgressBarWidth(id,+25)
+                setProgressBarWidth(id,+20)
             }
         });
 
         numberValue.onChange(function (v) {
 
             if(v === 0) {
-                setProgressBarWidth(id,-25)
+                setProgressBarWidth(id,-20)
             } else {
-                setProgressBarWidth(id,+25)
+                setProgressBarWidth(id,+20)
             }
         });
 
         specialCharacter.onChange(function (v) {
 
             if(v === 0) {
-                setProgressBarWidth(id,-25)
+                setProgressBarWidth(id,-20)
             } else {
-                setProgressBarWidth(id,+25)
+                setProgressBarWidth(id,+20)
             }
         });
 
         passwordField.onkeyup = function () {
-            // Validate lowercase letters
+            // Validate password
             let lowerCaseLetters = /[a-z]/g;
             let upperCaseLetters = /[A-Z]/g;
             let numericValue = /[0-9]/g;
