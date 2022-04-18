@@ -548,3 +548,17 @@
 [2022-04-16 05:51:43,067] [101] 127.0.0.1 requested http://localhost/dashboardINFO in __init__: My App Logger
 [2022-04-16 05:51:43,070] [101] 127.0.0.1 requested http://localhost/login?next=%2FdashboardINFO in __init__: My App Logger
 [2022-04-16 05:51:43,227] [101] 127.0.0.1 requested http://localhost/login?next=%2FdashboardINFO in __init__: My App Logger
+[2022-04-16 05:52:45,680] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 05:52:45,682] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 05:52:45,858] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 05:52:46,039] [97] 172.25.0.1 requested http://localhost/favicon.icoINFO in __init__: My App Logger
+[2022-04-16 05:53:08,690] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 05:53:08,698] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-16 05:53:08,846] [97] 172.25.0.1 requested http://localhost/favicon.icoINFO in __init__: My App Logger
+[2022-04-18 16:23:04,855] [97] 172.25.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 16:23:04,929] [97] 172.25.0.1 requested http://localhost/INFO in __init__: My App Logger
+[2022-04-18 16:23:05,453] [97] 172.25.0.1 requested http://localhost/favicon.icoINFO in __init__: My App Logger
+[2022-04-18 16:23:06,964] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-18 16:23:06,972] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-18 16:24:27,411] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
+[2022-04-18 16:24:27,440] [97] 172.25.0.1 requested http://localhost/registerINFO in __init__: My App Logger
