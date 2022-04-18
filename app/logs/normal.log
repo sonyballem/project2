@@ -426,3 +426,24 @@
 2022-04-16 05:51:43,067 [INFO] app: After Request
 2022-04-16 05:51:43,069 [INFO] app: Before Request
 2022-04-16 05:51:43,226 [INFO] app: After Request
+2022-04-16 05:52:45,681 [INFO] app: Before Request
+2022-04-16 05:52:45,858 [INFO] app: After Request
+2022-04-16 05:52:45,860 [INFO] werkzeug: 172.25.0.1 - - [16/Apr/2022 05:52:45] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:52:46,039 [INFO] app: Before Request
+2022-04-16 05:52:46,053 [INFO] werkzeug: 172.25.0.1 - - [16/Apr/2022 05:52:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-16 05:53:08,690 [INFO] app: Before Request
+2022-04-16 05:53:08,698 [INFO] app: After Request
+2022-04-16 05:53:08,699 [INFO] werkzeug: 172.25.0.1 - - [16/Apr/2022 05:53:08] "GET /register HTTP/1.1" 200 -
+2022-04-16 05:53:08,845 [INFO] app: Before Request
+2022-04-16 05:53:08,852 [INFO] werkzeug: 172.25.0.1 - - [16/Apr/2022 05:53:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-18 16:23:04,851 [INFO] app: Before Request
+2022-04-18 16:23:04,928 [INFO] app: After Request
+2022-04-18 16:23:04,936 [INFO] werkzeug: 172.25.0.1 - - [18/Apr/2022 16:23:04] "GET / HTTP/1.1" 200 -
+2022-04-18 16:23:05,452 [INFO] app: Before Request
+2022-04-18 16:23:05,459 [INFO] werkzeug: 172.25.0.1 - - [18/Apr/2022 16:23:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-18 16:23:06,963 [INFO] app: Before Request
+2022-04-18 16:23:06,972 [INFO] app: After Request
+2022-04-18 16:23:06,974 [INFO] werkzeug: 172.25.0.1 - - [18/Apr/2022 16:23:06] "GET /register HTTP/1.1" 200 -
+2022-04-18 16:24:27,411 [INFO] app: Before Request
+2022-04-18 16:24:27,440 [INFO] app: After Request
+2022-04-18 16:24:27,441 [INFO] werkzeug: 172.25.0.1 - - [18/Apr/2022 16:24:27] "GET /register HTTP/1.1" 200 -
